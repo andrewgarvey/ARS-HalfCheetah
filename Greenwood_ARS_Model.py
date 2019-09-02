@@ -3,6 +3,8 @@
 """
 Created on Mon Jan 7 21:10:43 2019
 
+author: Greenwood Group
+
 Adapted from code created as part of Udemy course: Artificial Intelligence 2018: Build the Most Powerful AI
 (https://www.udemy.com/artificial-intelligence-ars/)
 """
