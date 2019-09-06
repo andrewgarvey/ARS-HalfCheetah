@@ -1,7 +1,5 @@
 # RL using Augmented Random Search on simple problems
 
-Author: Andrew Garvey (MMAI Group Project)
-
 Date: Jan-Feb 2019 
 
 Languages: Python
